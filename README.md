@@ -92,10 +92,10 @@ Unity 기반 게임 클라이언트 개발 포트폴리오입니다.
 
 ### 개발 기록
 
-* Issue #64: 전체 성능 최적화 요약
-* Issue #60: MapChunk 빈 화면, PPU, GC 문제
-* Issue #62: SetTile → SetTiles 개선
-* Issue #65: SpatialGrid GC 최적화
+* Issue #64: 전체 성능 최적화 요약 (https://github.com/LoveisChicken/Unity-Bootcamp/issues/64)
+* Issue #60: MapChunk 빈 화면, PPU, GC 문제 (https://github.com/LoveisChicken/Unity-Bootcamp/issues/60)
+* Issue #62: SetTile → SetTiles 개선 (https://github.com/LoveisChicken/Unity-Bootcamp/issues/62)
+* Issue #65: SpatialGrid GC 최적화 (https://github.com/LoveisChicken/Unity-Bootcamp/issues/65)
 
 ### 시연 자료
 
