@@ -48,7 +48,7 @@ Unity 기반 게임 클라이언트 개발 포트폴리오입니다.
 
 * Project NOVA 시연 영상: https://youtu.be/1-ljXu4yQG0
 * UI Flow 이미지: docs/project-nova
-* 기술 문서: 준비 중
+* [기술 문서](docs/project-nova/기술문서.md)
 
 ---
 
