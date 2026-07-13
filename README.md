@@ -100,7 +100,7 @@ Unity 기반 게임 클라이언트 개발 포트폴리오입니다.
 ### 시연 자료
 
 * Coin Survivor 포트폴리오 영상: https://youtu.be/x93I-jS62pk
-* 기술 문서: 끊김 없는 Chunk World와 자연스러운 Enemy 군집 이동 구현
+* 기술 문서: [끊김 없는 Chunk World와 자연스러운 Enemy 군집 이동 구현](../../docs/coin-survivor/기술문서.md)
 
 ---
 
